@@ -1,0 +1,32 @@
+.mg {
+    width: 30vw;
+    height: 80vh;
+    margin: 20px 10px;
+    border: 2px solid rgb(107, 107, 107);
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    overflow: hidden;
+  }
+
+.mg-title-container {
+    text-align: center;
+    min-height: 100px;
+}
+
+.mg-image {
+    width: 40%;
+    
+}
+
+.mg-text-container {
+    margin-top: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.mg-overview {
+    font-size: 80%;
+}
